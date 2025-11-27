@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-<a href="https://github.com/shalomjoseph2003"_blank">
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/shalom-joseph/)/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/YOUR_INSTA/" target="_blank">
